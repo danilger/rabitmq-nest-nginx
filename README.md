@@ -106,6 +106,6 @@ const app = await NestFactory.createMicroservice<MicroserviceOptions>(
 ```
 
 Замените `ваш_имя_пользователя`, `ваш_пароль`, `ваш_сервер` и `ваш_виртуальный_хост` на соответствующие значения.
-```
 
-Этот текст можно вставить в ваш файл `README.md` на GitHub.
+
+
