@@ -1,0 +1,2 @@
+# rabitmq-nest-nginx
+rabitmq
