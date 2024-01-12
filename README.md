@@ -3,7 +3,7 @@ rabitmq
 
 
 ```markdown
-# Настройка RabbitMQ для Nest.js на Ubuntu
+## Настройка RabbitMQ для Nest.js на Ubuntu
 ```
 
 ## 1. Установка RabbitMQ:
